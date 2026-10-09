@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(int argc, char* argv[]) {
-    printf("Hello, I am a master process!\n");
+    printf("Hello, I am a master process\n");
     return EXIT_SUCCESS;
 }
 
